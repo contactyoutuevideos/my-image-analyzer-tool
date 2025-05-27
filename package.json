@@ -14,10 +14,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build", // <--- এই লাইনটি পরিবর্তন করা হয়েছে
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    // "build:tailwind" স্ক্রিপ্টটি এখান থেকে সরিয়ে দেওয়া হয়েছে
   },
   "eslintConfig": {
     "extends": [
